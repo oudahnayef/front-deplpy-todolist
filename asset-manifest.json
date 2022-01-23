@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/front-deplpy-todolist/static/css/main.ff31650c.chunk.css",
+    "main.js": "/front-deplpy-todolist/static/js/main.d2b526b9.chunk.js",
+    "main.js.map": "/front-deplpy-todolist/static/js/main.d2b526b9.chunk.js.map",
+    "runtime-main.js": "/front-deplpy-todolist/static/js/runtime-main.28a803b6.js",
+    "runtime-main.js.map": "/front-deplpy-todolist/static/js/runtime-main.28a803b6.js.map",
+    "static/js/2.1dedea5e.chunk.js": "/front-deplpy-todolist/static/js/2.1dedea5e.chunk.js",
+    "static/js/2.1dedea5e.chunk.js.map": "/front-deplpy-todolist/static/js/2.1dedea5e.chunk.js.map",
+    "index.html": "/front-deplpy-todolist/index.html",
+    "static/css/main.ff31650c.chunk.css.map": "/front-deplpy-todolist/static/css/main.ff31650c.chunk.css.map",
+    "static/js/2.1dedea5e.chunk.js.LICENSE.txt": "/front-deplpy-todolist/static/js/2.1dedea5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28a803b6.js",
+    "static/js/2.1dedea5e.chunk.js",
+    "static/css/main.ff31650c.chunk.css",
+    "static/js/main.d2b526b9.chunk.js"
+  ]
+}
